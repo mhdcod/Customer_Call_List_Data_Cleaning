@@ -4,6 +4,11 @@
 ## Project Overview
 This project involved cleaning a dataset of customer contact information to ensure **accuracy** and **efficiency** for the communication team. The dataset originally contained duplicate entries, inconsistent formatting, and unwanted characters. The goal was to standardize the data, remove unnecessary columns, and prepare it for customer outreach.
 
+The project was carried out using the following tools:
+- **Jupyter Notebook**: For organizing and running the data cleaning steps.
+- **Python**: The primary programming language used for data manipulation.
+- **Pandas Library**: A powerful data analysis library in Python, used for handling and cleaning the dataset.
+
 ## Dataset
 The original dataset consisted of customer information with the following columns:
 - **CustomerID**: Unique identifier for each customer.
