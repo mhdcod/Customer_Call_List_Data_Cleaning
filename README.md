@@ -2,7 +2,7 @@
 # Customer Call List Data Cleaning Project
 
 ## Project Overview
-This project involved cleaning a dataset of customer contact information to ensure **accuracy** and **efficiency** for the communication team. The dataset originally contained duplicate entries, inconsistent formatting, and unwanted characters. The goal was to standardize the data, remove unnecessary columns, and prepare it for customer outreach.
+This project involved cleaning a 100 rows dataset of customer contact information to ensure **accuracy** and **efficiency** for the communication team. The dataset originally contained duplicate entries, inconsistent formatting, and unwanted characters. The goal was to standardize the data, remove unnecessary columns, and prepare it for customer outreach.
 
 The project was carried out using the following tools:
 - **Jupyter Notebook**: For organizing and running the data cleaning steps.
